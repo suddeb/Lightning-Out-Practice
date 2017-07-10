@@ -1,7 +1,11 @@
 config
 *.sublime-project
+<<<<<<< HEAD
 *..sublime-workspace
 .settings
 Referenced Packages
 .project
 salesforce.schema
+=======
+*..sublime-workspace
+>>>>>>> b959b6354b4ed7be9dacdb36f7606883aba82cbe
