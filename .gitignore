@@ -1,0 +1,7 @@
+config
+*.sublime-project
+*..sublime-workspace
+.settings
+Referenced Packages
+.project
+salesforce.schema
