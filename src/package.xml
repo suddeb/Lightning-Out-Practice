@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>HelloWorldComponent</members>
+        <members>HelloWorldDepApp</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <version>38.0</version>
